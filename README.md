@@ -40,7 +40,7 @@ Gestionarea programărilor unui salon de frumusețe
 -	id_serviciu - valoare numerică, cheie primară
 -	nume - valoare șir de caractere, obligatorie, unică
 -	pret - valoare numerică, obligatorie
--       durata - valoare numerică, obligatorie
+-   durata - valoare numerică, obligatorie
 
 
 6.	Entitatea programări:
